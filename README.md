@@ -9,5 +9,5 @@
 ### Los siguientes son unos ejemplos relacionados con informes de ciberseguridad
 
 
-- **Realizar una auditoría de seguridad**
+- [Realizar una auditoría de seguridad](/docs/Realizar_auditoria.md)
 - **Informe de incidente de seguimiento según el marco CSF del NIST**
