@@ -10,4 +10,4 @@
 
 
 - [Realizar una auditoría de seguridad](/docs/realizar_auditoria.md)
-- **Informe de incidente de seguimiento según el marco CSF del NIST**
+- [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
