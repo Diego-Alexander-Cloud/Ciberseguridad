@@ -1,4 +1,4 @@
-### Permisos De Archivos En Linux
+### Cambiando Permisos De Archivos En Linux
 <br>
 
 **Descripción:**
