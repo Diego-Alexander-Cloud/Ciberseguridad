@@ -12,3 +12,4 @@
 - [Realizar una auditoría de seguridad](/docs/realizar_auditoria.md)
 - [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
 - [Lectura De Enrutamiento Malicioso](/docs/lectura_enrutamiento.md)
+- [Usando comandos de Linux para administrar permisos de archivo](/docs/permisos_linux.md)
