@@ -13,4 +13,4 @@
 - [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
 - [Lectura De Enrutamiento Malicioso](/docs/lectura_enrutamiento.md)
 - [Usando comandos de Linux para administrar permisos de archivo](/docs/permisos_linux.md)
-- [Recuperar Intentos De Inicio De Sesión Fallidos Después Del Horario Laboral](/docs/filtros_consultas_sql.md)
+- [Aplicar Filtros A Consultas SQL Para Realizar Tareas De Seguridad](/docs/filtros_consultas_sql.md)
