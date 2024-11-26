@@ -7,7 +7,7 @@
 ---
 
 ### Los siguientes son unos ejemplos relacionados con informes de ciberseguridad
-
+### Los enlaces siguientes ofrecen ejemplos de cómo uso diferentes herramientas para tareas de ciberseguridad.
 
 - [Realizar una auditoría de seguridad](/docs/realizar_auditoria.md)
 - [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
