@@ -21,7 +21,7 @@ Ahora para abrir el archivo uso la sentencia `with`:
 ![Imagen_2](https://github.com/user-attachments/assets/d67324dc-c7d4-4cc0-8981-73fa37cf7fcd)
 Imagen 2
 
-Aquí usé la sentencia “with” junto con la función `.open()` en modo lectura para poder abrir y leer el archivo de la lista de usuarios permitidos, con esto puedo acceder a las direcciones IP almacenadas. La función `open()` en esta línea `with open(import_file, “r”) as file:` tiene dos parámetros, el primero identifica el archivo que estoy importando, y el segundo, en este caso `“r”` indica que quiero leerlo. Adicionalmente también usé la palabra clave `"as”` para asignarle la variable llamada `file`, que almacenará la salida de la función `.open()`.
+Aquí usé la sentencia `with` junto con la función `.open()` en modo lectura para poder abrir y leer el archivo de la lista de usuarios permitidos, con esto puedo acceder a las direcciones IP almacenadas. La función `open()` en esta línea `with open(import_file, “r”) as file:` tiene dos parámetros, el primero identifica el archivo que estoy importando, y el segundo, en este caso `“r”` indica que quiero leerlo. Adicionalmente también usé la palabra clave `"as”` para asignarle la variable llamada `file`, que almacenará la salida de la función `.open()`.
 <br>
 
 ### Leer El Contenido Del Archivo
