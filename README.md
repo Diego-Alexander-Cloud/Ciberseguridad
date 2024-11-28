@@ -14,4 +14,4 @@
 - [Lectura De Enrutamiento Malicioso](/docs/lectura_enrutamiento.md)
 - [Usando comandos de Linux para administrar permisos de archivo](/docs/permisos_linux.md)
 - [Aplicar Filtros A Consultas SQL Para Realizar Tareas De Seguridad](/docs/filtros_consultas_sql.md)
--[Algoritmo Para Actualizaciones De Archivos De Seguridad En Python](/docs/actualizacion_con_python.md)
+- [Algoritmo Para Actualizaciones De Archivos De Seguridad En Python](/docs/actualizacion_con_python.md)
