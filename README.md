@@ -11,7 +11,8 @@
 
 - [Realizar una auditoría de seguridad](/docs/realizar_auditoria.md)
 - [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
-- [Lectura De Enrutamiento Malicioso](/docs/lectura_enrutamiento.md)
+- [Lectura de enrutamiento malicioso](/docs/lectura_enrutamiento.md)
 - [Usando comandos de Linux para administrar permisos de archivo](/docs/permisos_linux.md)
-- [Aplicar Filtros A Consultas SQL Para Realizar Tareas De Seguridad](/docs/filtros_consultas_sql.md)
-- [Algoritmo Para Actualizaciones De Archivos De Seguridad En Python](/docs/actualizacion_con_python.md)
+- [Aplicar filtros a consultas SQL para realizar tareas de seguridad](/docs/filtros_consultas_sql.md)
+- [Algoritmo para actualizaciones de archivos de seguridad en Python](/docs/actualizacion_con_python.md)
+- [Diario de gestión de incidentes](/docs/diario_incidentes.md)
