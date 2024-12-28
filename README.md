@@ -3,11 +3,10 @@
 <!---
 .
 --->
-#### Hola soy Diego, un entusiasta de la ciberseguridad y mi objetivo con este perfil es mostrar mis conocimientos en seguridad informática, actualmente sigo aprendiendo de este tema porque el sector tecnológico está cambiando a cada momento y es necesario avanzar con el.
+#### Hola soy Diego, este perfil de GitHub está dedicado a compartir lo que he aprendido de ciberseguridad. Aquí encontrarás proyectos, ejercicios y recursos que he desarrollado para mejorar mis habilidades en la protección de sistemas, redes y datos. He asimilado conocimientos de ciberseguridad, y a través de este perfil, quiero mostrar mi progreso, compartir soluciones prácticas y continuar estudiando. Estoy emocionado de aplicar estos conocimientos en proyectos reales y contribuir al crecimiento de la comunidad de seguridad informática.
 ---
 
-### Los siguientes son unos ejemplos relacionados con informes de ciberseguridad
-### Los enlaces siguientes ofrecen ejemplos de cómo uso diferentes herramientas para tareas de ciberseguridad.
+#### Los enlaces siguientes ofrecen ejemplos de cómo uso diferentes herramientas para tareas de ciberseguridad y también ejemplos relacionados con informes de manejo de incidentes.
 
 - [Realizar una auditoría de seguridad](/docs/realizar_auditoria.md)
 - [Informe de incidente de seguimiento según el marco CSF del NIST](/docs/uso_marco_CSF.md)
