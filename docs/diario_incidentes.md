@@ -1,5 +1,5 @@
 ### Diario De Gestión De Incidentes
-#### Las entradas generadas son realizadas a partir del curso
+#### Las entradas generadas son realizadas a partir del curso de ciberseguridad que realicé.
 
 
 <table class="tg"><thead>
